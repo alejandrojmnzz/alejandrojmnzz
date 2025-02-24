@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Alejandro Jiménez</h1>
-<h3 align="center">Full stack web developer with 6 meses de experiencia y pasión por crear soluciones innovadoras. También entusiasmado por el desarrollo de videojuegos.</h3>
+<h3 align="center">Full stack web developer with 6 months of experience and passion for creating innovative solutions. Also enthusiastic about video game development.</h3>
 
 - 🔭 Currently working on **improve my skills and knowledge in full stack development**
 
